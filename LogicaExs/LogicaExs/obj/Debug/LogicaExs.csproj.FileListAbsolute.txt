@@ -1,0 +1,2 @@
+C:\Users\fvict\Source\Repos\LogicaExs\LogicaExs\obj\Debug\LogicaExs.csproj.AssemblyReference.cache
+C:\Users\fvict\Source\Repos\LogicaExs\LogicaExs\obj\Debug\LogicaExs.csproj.CoreCompileInputs.cache
